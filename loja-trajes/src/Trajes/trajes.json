@@ -1,0 +1,73 @@
+[{
+	"id": "001",
+	"name": "NASA Space Suit",
+	"price": 250.00,
+	"imageUrl": "https://airandspace.si.edu/sites/default/files/styles/callout_half/public/images/news/11457h.jpg?h=f69df151&itok=zc9mCmAZ"
+},
+{
+	"id": "002",
+	"name": "URSS Space Suit",
+	"price": 500.00,
+	"imageUrl": "https://i.pinimg.com/originals/a9/3d/a8/a93da8c939837fc91412458af9c8c2ca.jpg"
+},
+{
+	"id": "003",
+	"name": "USG Ishimura Space Suit",
+	"price": 750.0,
+	"imageUrl": "https://www.sideshow.com/storage/product-images/902261/isaac-clarke-snow-suit-version_dead-space_feature.jpg"
+},
+{
+	"id": "004",
+	"name": "CMC Powered Combat Suit",
+	"price": 1000.00,
+	"imageUrl": "https://i.pinimg.com/originals/84/9e/ff/849effc7ed63bf2a7a1a78fe561bccf2.jpg"
+},
+{
+	"id": "005",
+	"name": "NASA Exoskeleton",
+	"price": 1250.00,
+	"imageUrl": "https://www.yankodesign.com/images/design_news/2021/09/this-nasa-exoskeleton-spacesuit-has-dropped-straight-out-of-a-inter-galactic-future/Exo-Suit-Concept-by-Riyahd-Cassiem_Spacesuit_Space_-4.jpg"
+},
+{
+	"id": "006",
+	"name": "Chozo Power Suit",
+	"price": 1500.00,
+	"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIUgCBqShYImkUhdQh3f8hV_XJuxbY2LSE1A&usqp=CAU"
+},
+{
+	"id": "007",
+	"name": "Gaganyan Space Suit",
+	"price": 1750.00,
+	"imageUrl": "https://www.financialexpress.com/wp-content/uploads/2020/08/gaganyaan-660-1.jpg"
+},
+{
+	"id": "008",
+	"name": "Venus Space Suit Model",
+	"price": 2000.00,
+	"imageUrl": "https://i.pinimg.com/originals/52/fd/0d/52fd0d941cecbfb0995cb6ac7cd1be54.jpg"
+},
+{
+	"id": "009",
+	"name": "Prometheus Space Suit",
+	"price": 2250.00,
+	"imageUrl": "https://i.pinimg.com/originals/b6/5d/b5/b65db52a9d887e8e26d5a6372efab865.jpg"
+},
+{
+	"id": "010",
+	"name": "AMP Suit",
+	"price": 2500.00,
+	"imageUrl": "https://ellingsonvcu.weebly.com/uploads/1/0/4/2/10422649/2839869_orig.jpg"
+},
+{
+	"id": "011",
+	"name": "Kang, the Conqueror, Suit",
+	"price": 2750.00,
+	"imageUrl": "https://i.redd.it/qxcs011oy7g71.jpg"
+},
+{
+	"id": "012",
+	"name": "Akira Space Marine Suit",
+	"price": 3000.00,
+	"imageUrl": "https://img1.cgtrader.com/items/3678456/44af5a2643/large/space-marine-3d-model-low-poly-rigged-fbx-blend-unitypackage-uasset.jpg"
+}
+]
